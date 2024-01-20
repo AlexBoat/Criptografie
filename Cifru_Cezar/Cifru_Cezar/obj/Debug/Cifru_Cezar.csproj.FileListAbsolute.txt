@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Criptografie\Cifru_Cezar\Cifru_Cezar\bin\Debug\Cifru_Cezar.exe.config
+C:\Users\user\Desktop\Criptografie\Cifru_Cezar\Cifru_Cezar\bin\Debug\Cifru_Cezar.exe
+C:\Users\user\Desktop\Criptografie\Cifru_Cezar\Cifru_Cezar\bin\Debug\Cifru_Cezar.pdb
+C:\Users\user\Desktop\Criptografie\Cifru_Cezar\Cifru_Cezar\obj\Debug\Cifru_Cezar.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Cezar\Cifru_Cezar\obj\Debug\Cifru_Cezar.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Cezar\Cifru_Cezar\obj\Debug\Cifru_Cezar.Form1.resources
+C:\Users\user\Desktop\Criptografie\Cifru_Cezar\Cifru_Cezar\obj\Debug\Cifru_Cezar.Properties.Resources.resources
+C:\Users\user\Desktop\Criptografie\Cifru_Cezar\Cifru_Cezar\obj\Debug\Cifru_Cezar.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Cezar\Cifru_Cezar\obj\Debug\Cifru_Cezar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Cezar\Cifru_Cezar\obj\Debug\Cifru_Cezar.exe
+C:\Users\user\Desktop\Criptografie\Cifru_Cezar\Cifru_Cezar\obj\Debug\Cifru_Cezar.pdb
