@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Criptografie\Cifru_N\Cifru_N\bin\Debug\Cifru_N.exe.config
+C:\Users\user\Desktop\Criptografie\Cifru_N\Cifru_N\bin\Debug\Cifru_N.exe
+C:\Users\user\Desktop\Criptografie\Cifru_N\Cifru_N\bin\Debug\Cifru_N.pdb
+C:\Users\user\Desktop\Criptografie\Cifru_N\Cifru_N\obj\Debug\Cifru_N.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Criptografie\Cifru_N\Cifru_N\obj\Debug\Cifru_N.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Criptografie\Cifru_N\Cifru_N\obj\Debug\Cifru_N.Form1.resources
+C:\Users\user\Desktop\Criptografie\Cifru_N\Cifru_N\obj\Debug\Cifru_N.Properties.Resources.resources
+C:\Users\user\Desktop\Criptografie\Cifru_N\Cifru_N\obj\Debug\Cifru_N.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Criptografie\Cifru_N\Cifru_N\obj\Debug\Cifru_N.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Criptografie\Cifru_N\Cifru_N\obj\Debug\Cifru_N.exe
+C:\Users\user\Desktop\Criptografie\Cifru_N\Cifru_N\obj\Debug\Cifru_N.pdb
