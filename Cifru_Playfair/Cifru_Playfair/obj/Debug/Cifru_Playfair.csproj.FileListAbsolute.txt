@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Criptografie\Cifru_Playfair\Cifru_Playfair\bin\Debug\Cifru_Playfair.exe.config
+C:\Users\user\Desktop\Criptografie\Cifru_Playfair\Cifru_Playfair\bin\Debug\Cifru_Playfair.exe
+C:\Users\user\Desktop\Criptografie\Cifru_Playfair\Cifru_Playfair\bin\Debug\Cifru_Playfair.pdb
+C:\Users\user\Desktop\Criptografie\Cifru_Playfair\Cifru_Playfair\obj\Debug\Cifru_Playfair.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Playfair\Cifru_Playfair\obj\Debug\Cifru_Playfair.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Playfair\Cifru_Playfair\obj\Debug\Cifru_Playfair.Form1.resources
+C:\Users\user\Desktop\Criptografie\Cifru_Playfair\Cifru_Playfair\obj\Debug\Cifru_Playfair.Properties.Resources.resources
+C:\Users\user\Desktop\Criptografie\Cifru_Playfair\Cifru_Playfair\obj\Debug\Cifru_Playfair.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Playfair\Cifru_Playfair\obj\Debug\Cifru_Playfair.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Playfair\Cifru_Playfair\obj\Debug\Cifru_Playfair.exe
+C:\Users\user\Desktop\Criptografie\Cifru_Playfair\Cifru_Playfair\obj\Debug\Cifru_Playfair.pdb
