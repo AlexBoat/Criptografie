@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Criptografie\Cifru_Polialfabetic(Vigenere)\Cifru_Polialfabetic(Vigenere)\bin\Debug\Cifru_Polialfabetic(Vigenere).exe.config
+C:\Users\user\Desktop\Criptografie\Cifru_Polialfabetic(Vigenere)\Cifru_Polialfabetic(Vigenere)\bin\Debug\Cifru_Polialfabetic(Vigenere).exe
+C:\Users\user\Desktop\Criptografie\Cifru_Polialfabetic(Vigenere)\Cifru_Polialfabetic(Vigenere)\bin\Debug\Cifru_Polialfabetic(Vigenere).pdb
+C:\Users\user\Desktop\Criptografie\Cifru_Polialfabetic(Vigenere)\Cifru_Polialfabetic(Vigenere)\obj\Debug\Cifru_Polialfabetic(Vigenere).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Polialfabetic(Vigenere)\Cifru_Polialfabetic(Vigenere)\obj\Debug\Cifru_Polialfabetic(Vigenere).csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Polialfabetic(Vigenere)\Cifru_Polialfabetic(Vigenere)\obj\Debug\Cifru_Polialfabetic_Vigenere_.Form1.resources
+C:\Users\user\Desktop\Criptografie\Cifru_Polialfabetic(Vigenere)\Cifru_Polialfabetic(Vigenere)\obj\Debug\Cifru_Polialfabetic_Vigenere_.Properties.Resources.resources
+C:\Users\user\Desktop\Criptografie\Cifru_Polialfabetic(Vigenere)\Cifru_Polialfabetic(Vigenere)\obj\Debug\Cifru_Polialfabetic(Vigenere).csproj.GenerateResource.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Polialfabetic(Vigenere)\Cifru_Polialfabetic(Vigenere)\obj\Debug\Cifru_Polialfabetic(Vigenere).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Polialfabetic(Vigenere)\Cifru_Polialfabetic(Vigenere)\obj\Debug\Cifru_Polialfabetic(Vigenere).exe
+C:\Users\user\Desktop\Criptografie\Cifru_Polialfabetic(Vigenere)\Cifru_Polialfabetic(Vigenere)\obj\Debug\Cifru_Polialfabetic(Vigenere).pdb
