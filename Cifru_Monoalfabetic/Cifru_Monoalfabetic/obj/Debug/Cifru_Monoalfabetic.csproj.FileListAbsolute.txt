@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Criptografie\Cifru_Monoalfabetic\Cifru_Monoalfabetic\bin\Debug\Cifru_Monoalfabetic.exe.config
+C:\Users\user\Desktop\Criptografie\Cifru_Monoalfabetic\Cifru_Monoalfabetic\bin\Debug\Cifru_Monoalfabetic.exe
+C:\Users\user\Desktop\Criptografie\Cifru_Monoalfabetic\Cifru_Monoalfabetic\bin\Debug\Cifru_Monoalfabetic.pdb
+C:\Users\user\Desktop\Criptografie\Cifru_Monoalfabetic\Cifru_Monoalfabetic\obj\Debug\Cifru_Monoalfabetic.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Monoalfabetic\Cifru_Monoalfabetic\obj\Debug\Cifru_Monoalfabetic.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Monoalfabetic\Cifru_Monoalfabetic\obj\Debug\Cifru_Monoalfabetic.Form1.resources
+C:\Users\user\Desktop\Criptografie\Cifru_Monoalfabetic\Cifru_Monoalfabetic\obj\Debug\Cifru_Monoalfabetic.Properties.Resources.resources
+C:\Users\user\Desktop\Criptografie\Cifru_Monoalfabetic\Cifru_Monoalfabetic\obj\Debug\Cifru_Monoalfabetic.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Monoalfabetic\Cifru_Monoalfabetic\obj\Debug\Cifru_Monoalfabetic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Criptografie\Cifru_Monoalfabetic\Cifru_Monoalfabetic\obj\Debug\Cifru_Monoalfabetic.exe
+C:\Users\user\Desktop\Criptografie\Cifru_Monoalfabetic\Cifru_Monoalfabetic\obj\Debug\Cifru_Monoalfabetic.pdb
