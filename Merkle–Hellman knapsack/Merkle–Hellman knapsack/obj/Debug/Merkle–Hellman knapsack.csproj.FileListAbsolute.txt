@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Criptografie\Merkle–Hellman knapsack\Merkle–Hellman knapsack\obj\Debug\Merkle–Hellman knapsack.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Criptografie\Merkle–Hellman knapsack\Merkle–Hellman knapsack\obj\Debug\Merkle–Hellman knapsack.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Criptografie\Merkle–Hellman knapsack\Merkle–Hellman knapsack\obj\Debug\Merkle_Hellman_knapsack.Form1.resources
+C:\Users\user\Desktop\Criptografie\Merkle–Hellman knapsack\Merkle–Hellman knapsack\obj\Debug\Merkle_Hellman_knapsack.Properties.Resources.resources
+C:\Users\user\Desktop\Criptografie\Merkle–Hellman knapsack\Merkle–Hellman knapsack\obj\Debug\Merkle–Hellman knapsack.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Criptografie\Merkle–Hellman knapsack\Merkle–Hellman knapsack\obj\Debug\Merkle–Hellman knapsack.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Criptografie\Merkle–Hellman knapsack\Merkle–Hellman knapsack\bin\Debug\Merkle–Hellman knapsack.exe.config
+C:\Users\user\Desktop\Criptografie\Merkle–Hellman knapsack\Merkle–Hellman knapsack\bin\Debug\Merkle–Hellman knapsack.exe
+C:\Users\user\Desktop\Criptografie\Merkle–Hellman knapsack\Merkle–Hellman knapsack\bin\Debug\Merkle–Hellman knapsack.pdb
+C:\Users\user\Desktop\Criptografie\Merkle–Hellman knapsack\Merkle–Hellman knapsack\obj\Debug\Merkle–Hellman knapsack.exe
+C:\Users\user\Desktop\Criptografie\Merkle–Hellman knapsack\Merkle–Hellman knapsack\obj\Debug\Merkle–Hellman knapsack.pdb
